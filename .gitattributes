@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.gitattributes export-ignore
+tests/			export-ignore
+.github/		export-ignore
+.gitattributes export-ignore
+README.md 		export-ignore
